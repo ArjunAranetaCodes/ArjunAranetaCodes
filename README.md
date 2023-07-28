@@ -1,7 +1,9 @@
 ### Hi 👋, how are you?
 
 🔭 I’m currently working on ... Java Projects <br/>
-🌱 I’m currently learning ... More AWS concepts
+🌱 I’m currently learning ... More AWS concepts <br/>
+<br/>
+📫 How to reach me: https://www.linkedin.com/in/arjun-araneta/
 <!--
 **ArjunAranetaCodes/ArjunAranetaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
