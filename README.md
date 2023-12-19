@@ -1,7 +1,7 @@
 ### Hi 👋, how are you?
 
 🔭 I’m currently working on ... Java Projects <br/>
-🌱 I’m currently learning ... More AWS concepts <br/>
+🌱 I’m currently learning ... More CICD lessons <br/>
 <br/>
 📫 How to reach me: https://www.linkedin.com/in/arjun-araneta/
 <!--
