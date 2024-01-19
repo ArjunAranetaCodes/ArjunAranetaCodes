@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArjunAranetaCodes&hide=css,scss,html&theme=tokyonight)](https://github.com/ArjunAranetaCodes/github-readme-stats)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ArjunAranetaCodes/ArjunAranetaCodes?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/ArjunAranetaCodes/MoreCodes-Youtube?style=social)
 
 <!--
 **ArjunAranetaCodes/ArjunAranetaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
