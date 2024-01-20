@@ -11,8 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ArjunAranetaCodes)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArjunAranetaCodes&hide=css,scss,html&theme=tokyonight)](https://github.com/ArjunAranetaCodes/github-readme-stats)
-
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunAranetaCodes&hide=css,scss,html&theme=tokyonight)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ArjunAranetaCodes/MoreCodes-Youtube?style=social)
