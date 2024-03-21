@@ -3,8 +3,8 @@
 ☕ I am a **Java** Developer <br/>
 🔭 I’m currently working on more Java Projects <br/>
 💬 Ask me about Java Programming <br/>
-📜 I am also a **JavaScript** Developer
-🌱 I’m currently learning ... More CICD lessons <br/>
+📜 I am also a **JavaScript** Developer <br>
+🌱 I’m currently learning ... More AI lessons <br/>
 👯 I’m looking to collaborate on more open source projects <br/>
 <br/>
 📫 How to reach me: https://www.linkedin.com/in/arjun-araneta/
