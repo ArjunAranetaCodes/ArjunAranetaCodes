@@ -16,7 +16,7 @@
 
 * Language: `JavaScript`, `TypeScript`
 * Framework/Library: `React`, `Angular`, `VueJS`
-* UI Toolkit: `Shadcn`, `Core UI`, `Tailwind`, `Bootstrap`
+* UI Toolkit: `Shadcn`, `Radix UI`, `Tailwind`, `Bootstrap`, `Core UI`
 
 📜 I’m currently working on more Java Projects <br/>
 💬 Ask me about Java Programming <br/>
