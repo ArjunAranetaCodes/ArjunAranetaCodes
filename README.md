@@ -1,11 +1,27 @@
 ### Hi 👋, how are you?
 
-☕ I am a **Java** Developer <br/>
-🔭 I’m currently working on more Java Projects <br/>
+# Who am I?
+* A **Full Stack Developer** with 10 years of experience.
+* Among the top 100 open source GitHub contributors from ![Australia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/australia.md).
+* See my portfolio at [arjunaranetacodes.github.io](https://arjunaranetacodes.github.io/portfolio/).
+
+📜 Backend:
+
+* Language: `Java`, `PHP`, `Node.js`, `Python`, `JavaScript`, `TypeScript` 
+* Framework: `Spring`, `Hibernate`, `Laravel`, `Wordpress`, `Next.js`, `Express.js`
+* Databases: `MSSQL`, `MySQL`, `MongoDB`, `PostgreSQL`
+* API: `REST`, `SOAP`
+  
+🔭 Frontend:
+
+* Language: `JavaScript`, `TypeScript`
+* Framework/Library: `React', `Angular`, `VueJS`
+* UI Toolkit: `Shadcn`, `Core UI`, `Tailwind`, `Bootstrap`
+
+📜 I’m currently working on more Java Projects <br/>
 💬 Ask me about Java Programming <br/>
-📜 I am also a **JavaScript** Developer <br>
-🌱 I’m currently learning ... More AI lessons <br/>
-👯 I’m looking to collaborate on more open source projects <br/>
+🌱 I’m currently learning ... More AI and Machine Learning <br/>
+👯 Currently contributing to Open Source <br/>
 <br/>
 📫 How to reach me: https://www.linkedin.com/in/arjun-araneta/
 
