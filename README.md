@@ -11,6 +11,7 @@
 * Framework: `Spring`, `Hibernate`, `Laravel`, `Wordpress`, `Next.js`, `Express.js`
 * Databases: `MSSQL`, `MySQL`, `MongoDB`, `PostgreSQL`
 * API: `REST`, `SOAP`
+* Auth Frameworks: `Spring Security`, `ClerkJS`, `NextAuth`
   
 🔭 Frontend:
 
