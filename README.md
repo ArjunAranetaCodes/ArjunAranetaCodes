@@ -2,8 +2,8 @@
 
 # Who am I?
 * A **Full Stack Developer** with 10 years of experience.
-* Among the top 100 open source GitHub contributors from [Australia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/australia.md).
 * See my portfolio at [arjunaranetacodes.github.io](https://arjunaranetacodes.github.io/portfolio/).
+* Among the top 100 open source GitHub contributors from [Australia](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/australia.md).
 
 📜 Backend:
 
