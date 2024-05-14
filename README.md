@@ -16,7 +16,7 @@
 🔭 Frontend:
 
 * Language: `JavaScript`, `TypeScript`
-* Framework/Library: `React`, `Angular`, `VueJS`
+* Framework/Library: `React`, `Angular`, `VueJS`, `Streamlit`, `Chainlit`
 * UI Toolkit: `Shadcn`, `Radix UI`, `Tailwind`, `Bootstrap`, `Core UI`
 
 📜 I’m currently working on more Java Projects <br/>
